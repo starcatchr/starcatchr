@@ -6,10 +6,6 @@
 I'm an **AI/ML Solutions Architect** with **10 years** of experience taking machine learning from notebook to production. I design GPU training and inference platforms that train faster and serve for less — most recently at **IBM**, for enterprise customers on hybrid cloud. I love the moment a slow, expensive model turns into a fast, affordable one, and I enjoy teaching teams how to get there.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="200"/>
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=480&lines=AI%2FML+Solutions+Architect;Distributed+Training+at+Scale;LLM+Inference+That+Ships;Faster+Training%2C+Lower+GPU+Bills" alt="Typing SVG" />
 </div>
 
