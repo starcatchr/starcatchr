@@ -102,6 +102,10 @@ I'm an **AI/ML Solutions Architect** with **10 years** of experience taking mach
       <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
       <br>TensorFlow
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" />
+      <br>scikit
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
